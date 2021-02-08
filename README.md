@@ -21,7 +21,7 @@ After that you can copy bot's message and paste/forward it anywhere you want: to
     ```shell
     python -m venv venv
     source venv/bin/activate
-    # venv\bin\activate.bat - for Windows
+    # venv\Scripts\activate.bat - for Windows
     ```
 3. Install requirements:
    ```shell
